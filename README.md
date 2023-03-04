@@ -7,3 +7,4 @@
 
 ### Reach me
 <a href="https://twitter.com/chascharIie"><img align="left" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="26px" alt="Twitter" /></a>
+<a href="https://discordapp.com/users/1081597440819482716"><img align="left" src="https://static.vecteezy.com/system/resources/thumbnails/006/892/625/small/discord-logo-icon-editorial-free-vector.jpg" width="26px" alt="Discord" /></a>
